@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
-  "homepage": "https://stefanv14.github.io/form",
+  "homepage": "https://stefanv14.github.io/simple-form",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
